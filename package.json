@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/regis-hastings/list/issues"
   },
-  "homepage": "https://github.com/regis-hastings/list#readme"
+  "homepage": "https://github.com/regis-hastings/list#readme",
+  "dependencies": {
+    "chalk": "^4.0.0"
+  }
 }
